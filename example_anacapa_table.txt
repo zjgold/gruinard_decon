@@ -1,0 +1,21 @@
+seq_number	Sample1.MIU.1.S01	Sample2.MIU.1.S02	Sample3.MIU.1.S03	Sample4.MIU.1.S04	Sample5.MIU.1.S05	Sample6.MIU.1.S06	Sample7.MIU.1.S07	Sample8.MIU.1.S08	Sample9.MIU.1.S09	Pos1.MIU.1.S10	Neg1.MIU.1.S12	Sample1.MIU.1.S01	Sample2.MIU.1.S02	Sample3.MIU.1.S03	Sample4.MIU.1.S04	Sample5.MIU.1.S05	Sample6.MIU.1.S06	Sample7.MIU.1.S07	Sample8.MIU.1.S08	Sample9.MIU.1.S09	Pos1.MIU.1.S10	Neg1.MIU.1.S12	sum.taxonomy
+forward_c19_fishcard_1	66	70	81	154	115	99	134	141	86	69	0	6	30	377	233	218	221	324	111	65	0	0	Eukaryota;Chordata;Actinopteri;Clupeiformes;Clupeidae;Sardinops;Sardinops sagax
+forward_c19_fishcard_2	36	9	89	69	29	24	47	39	58	34	0	0	12	84	95	62	140	227	51	17	0	0	Eukaryota;Chordata;Actinopteri;Clupeiformes;Engraulidae;Engraulis;Engraulis mordax
+forward_c19_fishcard_3	160	27	163	93	93	147	92	84	48	105	0	120	81	63	18	96	9	0	0	311	0	0	Eukaryota;Chordata;Actinopteri;;Sciaenidae;Menticirrhus;Menticirrhus undulatus
+merged_c19_fishcard_1	37	20	26	65	67	54	5	25	1	43	15	55	1	72	1	15	11	6	18	30	800	6666	Eukaryota;Chordata;Mammalia;Primates;Hominidae;Homo;Homo sapiens
+merged_c19_fishcard_2	65517	17728	67616	25541	31581	49768	40750	29409	17968	37874	0	47915	0	36	31736	28307	9910	36814	3126	0	30	0	Eukaryota;Chordata;Actinopteri;Perciformes;Serranidae;Paralabrax;Paralabrax nebulifer
+merged_c19_fishcard_3	1791	9086	3420	0	9128	23176	48584	0	1527	2562	25242	2900	0	44	3218	4895	1992	35070	19903	14310	3	0	Eukaryota;Chordata;Actinopteri;;Sciaenidae;Menticirrhus;Menticirrhus undulatus
+merged_c19_fishcard_4	14240	39933	40259	58259	69776	112971	63225	62542	47092	47646	0	5965	0	60	3837	14425	20304	31731	44837	0	4	0	Eukaryota;Chordata;Chondrichthyes;Myliobatiformes;Myliobatidae;Myliobatis;Myliobatis californica
+merged_c19_fishcard_5	9766	6880	7718	7752	19663	13102	27880	20719	12222	10806	0	1631	0	0	4862	69659	37677	27535	24041	12516	45	100	Eukaryota;Chordata;Actinopteri;;Embiotocidae;Embiotoca;Embiotoca jacksoni
+merged_c19_fishcard_6	157	1643	2649	3099	22592	26822	14579	109727	33135	19689	0	1896	0	41	71	13965	4990	5078	7277	1428	12	0	Eukaryota;Chordata;Actinopteri;Labriformes;Labridae;Semicossyphus;Semicossyphus pulcher
+merged_c19_fishcard_7	0	20	0	0	0	0	17	0	0	1	0	0	0	0	0	0	0	0	0	0	50	3333	Eukaryota;Chordata;Mammalia;Artiodactyla;Suidae;Sus;Sus scrofa
+merged_c19_fishcard_8	0	1	2	3	0	0	0	0	0	0	7	7	6	4	3	9	3	5	1	0	3548790	14	Eukaryota;Chordata;Mammalia;Chiroptera;Vespertilionidae;Myotis;
+reverse_c19_fishcard_1	78	20	73	55	50	48	44	26	17	51	0	43	0	0	25	32	6	54	9	0	0	0	Eukaryota;Chordata;Actinopteri;Centrarchiformes;Kyphosidae;Hermosilla;Hermosilla azurea
+reverse_c19_fishcard_2	0	0	0	0	0	0	0	0	0	0	0	0	707	1	0	0	0	0	0	0	0	0	Eukaryota;Chordata;Mammalia;Artiodactyla;Delphinidae;Tursiops;Tursiops truncatus
+reverse_c19_fishcard_3	0	0	14	7	38	10	18	22	35	11	0	0	0	0	0	1	12	14	4	5	0	0	Eukaryota;Chordata;Actinopteri;Labriformes;Labridae;Halichoeres;Halichoeres semicinctus
+reverse_c19_fishcard_4	1	6	6	23	4	1	1	0	2	4	0	0	0	0	0	5	11	9	11	29	548	0	Eukaryota;Chordata;Actinopteri;Perciformes;Serranidae;Paralabrax;Paralabrax nebulifer
+reverse_c19_fishcard_5	5	13	13	13	6	12	2	8	4	21	0	55	0	0	150	0	2	2	1	12	0	0	Eukaryota;Chordata;Actinopteri;Blenniiformes;Clinidae;Gibbonsia;
+unmerged_c19_fishcard_1	0	0	0	0	0	0	0	0	0	0	0	0	589	0	0	0	0	0	0	14	0	0	Eukaryota;Chordata;Chondrichthyes;Heterodontiformes;Heterodontidae;Heterodontus;Heterodontus francisci
+unmerged_c19_fishcard_2	14	3	1	10	37	36	1	9	25	15	0	1	0	0	16	3	4	24	4	12	0	0	Eukaryota;Chordata;Actinopteri;;Sciaenidae;Menticirrhus;Menticirrhus undulatus
+unmerged_c19_fishcard_3	9	27	24	17	9	16	0	13	28	8	0	1	0	0	0	2	72	1	3	9	0	0	Eukaryota;Chordata;Actinopteri;;Sciaenidae;Umbrina;Umbrina roncador
+unmerged_c19_fishcard_4	7654	987	98	45	987	2135	538	328	6548	896	9	13	63	4	3	8	6	5	3	12	0	0	Eukaryota;Chordata;Actinopteri;Labriformes;Labridae;Semicossyphus;Semicossyphus pulcher
